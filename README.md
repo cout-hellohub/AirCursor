@@ -10,3 +10,4 @@ Below says the gestures which are currently functional -
 4. Close/ Exit - Get your both index fingers together - and you are out of program.
 
 This code is still under construction - and you can definately mail me your suggestions on my mail - patelrajdeep002@gmail.com
+ 
